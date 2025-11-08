@@ -1,0 +1,4 @@
+project_id = "riqctcgenimpjrhxzoyj"
+
+[functions.chat-ai]
+verify_jwt = true
